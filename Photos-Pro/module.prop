@@ -1,0 +1,7 @@
+id=photos-pro_0x
+name=Photos-Pro
+version=0.0.0
+versionCode=0
+author=xpert0
+description=Unlimited Google Photos storage and premium editing features
+updateJson=https://raw.githubusercontent.com/xpert0/android_modules/master/Photos-Pro/update.json

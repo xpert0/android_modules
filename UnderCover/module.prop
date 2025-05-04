@@ -1,0 +1,7 @@
+id=undercover_0x
+name=UnderCover
+version=0.0.0
+versionCode=0
+author=xpert0
+description=Patchs potential leaks/signs to avoid detection
+updateJson=https://raw.githubusercontent.com/xpert0/android_modules/master/UnderCover/update.json

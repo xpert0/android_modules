@@ -1,0 +1,12 @@
+# Fake bootloader state
+ro.boot.verifiedbootstate=green
+vendor.boot.verifiedbootstate=green
+vendor.boot.vbmeta.device_state=locked
+ro.boot.veritymode=enforcing
+ro.boot.vbmeta.device_state=locked
+ro.boot.flash.locked=1
+ro.secureboot.lockstate=locked
+# ADB
+ro.adb.secure=1
+#
+ro.0x.undercover=1
